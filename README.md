@@ -10,7 +10,7 @@ Link do filmu z prezentacją działania: https://youtu.be/2cVUZNkV3CU
 
 ## 0. Wymagania
 
-**Python w wersji 3.6+
+**Python w wersji 3.6+**
 
 Moduły Python:
 
