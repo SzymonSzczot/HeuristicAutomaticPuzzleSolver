@@ -8,9 +8,9 @@ Link do filmu z prezentacją działania: https://youtu.be/2cVUZNkV3CU
 
 
 
-## 0.Wymagania
+## 0. Wymagania
 
-Python w wersji 3.6+
+#####Python w wersji 3.6+
 
 Moduły Python:
 
@@ -18,4 +18,11 @@ Moduły Python:
 *  image_slicer
 *  matplotlib
 
+
+## 1. Działanie
+
+Pracę z programem należy rozpocząć od podania ścieżki do obrazka, który chcemy przetwarzać(najlepiej w formacie jpg lub png). 
+Następnie program zapyta nas o ilość "kawałków" na jakie chcemy podzielić obraz. Rozmiar tych kawałków jest obliczany automatycznie na podstawie rozmiarów oryginalnego obrazu. Każdy z kawałków jest zapisywany jako osobny plik. Zwracana jest także tablica zawierająca wszystkie kawałki. 
+
+Kawałki używane są jako wzory. Program porównuje każdy wzór z obrazem oryginalnym i znajduje miejsce, które mu odpowiada. Miejsce to jest zaznaczane czerwonym prostokątem.
 
